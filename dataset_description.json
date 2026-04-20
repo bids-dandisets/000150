@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Just a test to see if uploading our newly generated NWBs is successful ",
     "DatasetType": "raw",
-    "Authors": null,
+    "Authors": [
+        ", "
+    ],
     "License": null,
     "GeneratedBy": [
         {
